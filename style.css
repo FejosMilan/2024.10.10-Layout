@@ -29,12 +29,14 @@ section {
     padding: 20px;
     width: 400px;
     float: left;
+    
 }
 
 aside {
     margin-bottom: 10px;
-    width: 150px;
+    width: 142px;
     float: right;
+    border: 2px solid #999
 }
 
 footer {
@@ -42,3 +44,6 @@ border: 2px solid #999;
 margin-bottom: 10px;
 }
 
+.clear{
+    clear:both;
+}
